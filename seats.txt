@@ -1,0 +1,6 @@
+player1 : green
+player2 : green
+player3 : green
+player4 : green
+player5 : green
+player6 : green
